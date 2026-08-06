@@ -57,3 +57,4 @@ AIペネトレーションテストツール「XBOW」がHackerOneで人間を�
 ## 関連
 
 - [[OllamaをAgentic RAGのバックエンドにする]] — agentic loop（応答→ツール実行→結果フィードバックの循環）の考え方が共通
+- [[Claude Code入門 基本操作とコンテキスト管理]] — 同シリーズ第2回
