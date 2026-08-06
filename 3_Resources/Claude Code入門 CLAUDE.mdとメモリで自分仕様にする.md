@@ -48,4 +48,5 @@ CLAUDE.mdは一度作成して終わりではなく、実務を通じて継続�
 
 - [[Claude Code入門 基本操作とコンテキスト管理]] — 同シリーズ第2回
 - [[Claude Code入門 AIエージェントの仕組みとセットアップ]] — 同シリーズ第1回
+- [[Claude Code入門 permissions・hooks・devcontainerで安全に使う]] — 同シリーズ第4回
 - [[OllamaをAgentic RAGのバックエンドにする]] — agentic loopやセッション管理の考え方が共通
