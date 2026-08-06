@@ -60,4 +60,5 @@ source: https://zenn.dev/cscloud_blog/articles/csc-claude-code-study-session-02
 ## 関連
 
 - [[Claude Code入門 AIエージェントの仕組みとセットアップ]] — 同シリーズ第1回
+- [[Claude Code入門 CLAUDE.mdとメモリで自分仕様にする]] — 同シリーズ第3回
 - [[OllamaをAgentic RAGのバックエンドにする]] — agentic loopやセッション管理の考え方が共通
