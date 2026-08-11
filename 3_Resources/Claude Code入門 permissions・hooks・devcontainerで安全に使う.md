@@ -45,3 +45,4 @@ ls・find・grep・catなどのコマンドのみを許可するサンプル設�
 - [[Claude Code入門 基本操作とコンテキスト管理]] — 同シリーズ第2回
 - [[Claude Code入門 AIエージェントの仕組みとセットアップ]] — 同シリーズ第1回
 - [[OllamaをAgentic RAGのバックエンドにする]] — agentic loopやセッション管理の考え方が共通
+- [[Qwen-MM-PluginsによるAIエージェントのマルチモーダル拡張]] — MCP（Model Context Protocol）サーバーの活用という点で技術的に関連

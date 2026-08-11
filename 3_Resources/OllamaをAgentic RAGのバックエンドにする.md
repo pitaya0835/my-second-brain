@@ -78,3 +78,4 @@ def search_local_documents(query: str) -> str:
 - [[RAG Fusionとは]]
 - [[Claude Code入門 AIエージェントの仕組みとセットアップ]] — agentic loop（応答→ツール実行→結果フィードバックの循環）の考え方が共通
 - [[Claude Code入門 基本操作とコンテキスト管理]] — コンテキスト管理・セッション管理の考え方が共通
+- [[Qwen-MM-PluginsによるAIエージェントのマルチモーダル拡張]] — 既存のテキストベースAIエージェントにツール呼び出しで能力を拡張するという設計思想が共通
