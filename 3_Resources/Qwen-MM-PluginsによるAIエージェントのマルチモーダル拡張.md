@@ -74,3 +74,4 @@ Apache License 2.0。帰属表記が必要。
 - [[Claude Code入門 permissions・hooks・devcontainerで安全に使う]] — MCP（Model Context Protocol）サーバーの活用という点で技術的に関連
 - [[OllamaをAgentic RAGのバックエンドにする]] — 既存のテキストベースAIエージェントにツール呼び出しで能力を拡張するという設計思想が共通
 - [[Qwen3.8-27BをRX6800で動かしてローカルモデルを比較]] — 同じQwen系モデル・AIエージェント文脈という点で関連
+- [[Qwen3.8-27BをRTX5090で実測 ローカルLLM5モデル徹底比較]] — Qwen系モデルのVision/マルチモーダル対応という点で関連
