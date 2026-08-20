@@ -1,0 +1,1 @@
+（URL: ）の内容を取得・要約し、0_Inbox/[内容にあったタイトル].md として保存して。さらに CLAUDE.md のルールに従って 3_Resources/ に整理し、Wikilink を繋いで git push まで行って。
