@@ -73,3 +73,4 @@ Apache License 2.0。帰属表記が必要。
 - [[Claude Code入門 AIエージェントの仕組みとセットアップ]] — Claude Codeが「ハーネス」であるという定義が、Qwen-MM-Pluginsの「エージェントハーネス層」という考え方と共通
 - [[Claude Code入門 permissions・hooks・devcontainerで安全に使う]] — MCP（Model Context Protocol）サーバーの活用という点で技術的に関連
 - [[OllamaをAgentic RAGのバックエンドにする]] — 既存のテキストベースAIエージェントにツール呼び出しで能力を拡張するという設計思想が共通
+- [[Qwen3.8-27BをRX6800で動かしてローカルモデルを比較]] — 同じQwen系モデル・AIエージェント文脈という点で関連
