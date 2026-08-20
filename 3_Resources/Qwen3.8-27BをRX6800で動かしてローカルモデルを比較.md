@@ -58,3 +58,4 @@ source: https://zenn.dev/omohikane/articles/qwen38-test-my-rx6800
 
 - [[Qwen-MM-PluginsによるAIエージェントのマルチモーダル拡張]] — 同じQwen系モデル・AIエージェント文脈という点で関連
 - [[OllamaをAgentic RAGのバックエンドにする]] — ローカルLLMをエージェントのバックエンドとして運用する際のモデル選定（VRAM・量子化・速度のトレードオフ）という論点が共通
+- [[TransformerのKVキャッシュを用いたDecode処理を理解する]] — 本記事で比較しているCTX長とVRAM消費のトレードオフの技術的な背景（KVキャッシュのメモリ課題）
