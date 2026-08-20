@@ -63,3 +63,4 @@ Alibabaが公開したQwen3.8-27Bを、RTX 5090で6つの実務的なタスク�
 - [[Qwen3.8-27BをRX6800で動かしてローカルモデルを比較]] — 同じQwen3.8-27Bのローカル実行検証だが、GPU環境（RTX5090 32GB vs RX6800 16GB）とタスク内容が異なり対比できる
 - [[Qwen-MM-PluginsによるAIエージェントのマルチモーダル拡張]] — Qwen系モデルのVision/マルチモーダル対応という点で関連
 - [[OllamaをAgentic RAGのバックエンドにする]] — Ollamaを用いたローカルLLM運用、モデル選定基準という論点が共通
+- [[Qwen3.8-27Bの推論性能をテストする WSL2+Ollama+RTX5070Ti]] — 同じQwen3.8-27Bの実測レポートで、下位GPU（RTX5070 Ti）との速度・VRAM使用量の比較対象になる

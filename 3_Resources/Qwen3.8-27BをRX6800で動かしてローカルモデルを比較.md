@@ -60,3 +60,4 @@ source: https://zenn.dev/omohikane/articles/qwen38-test-my-rx6800
 - [[OllamaをAgentic RAGのバックエンドにする]] — ローカルLLMをエージェントのバックエンドとして運用する際のモデル選定（VRAM・量子化・速度のトレードオフ）という論点が共通
 - [[TransformerのKVキャッシュを用いたDecode処理を理解する]] — 本記事で比較しているCTX長とVRAM消費のトレードオフの技術的な背景（KVキャッシュのメモリ課題）
 - [[Qwen3.8-27BをRTX5090で実測 ローカルLLM5モデル徹底比較]] — 同じQwen3.8-27Bのローカル実行検証だが、GPU環境（RX6800 16GB vs RTX5090 32GB）とタスク内容が異なり対比できる
+- [[Qwen3.8-27Bの推論性能をテストする WSL2+Ollama+RTX5070Ti]] — 同じQwen3.8-27Bのローカル実行検証。VRAM 16GB帯というハードウェア条件が共通
